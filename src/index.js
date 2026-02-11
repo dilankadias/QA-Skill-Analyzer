@@ -1,3 +1,6 @@
+// QA Skills Gap Analyzer - React Entry Point
+// Track QA Engineer & QA Lead competencies
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
